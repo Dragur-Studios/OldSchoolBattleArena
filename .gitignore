@@ -1,0 +1,18 @@
+# Directories
+.vs/
+Build/
+
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+# build files
+*.pdb
+*.obj
+*.so
+*.exp
+
+# Exclude
+!vendor/bin
